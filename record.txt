@@ -1,0 +1,5 @@
+ ITEM	        QUANTITY    AMOUNT     TOTAL
+
+Chowmien   1.0 Half Plate	70.0	70.0
+ 
+
